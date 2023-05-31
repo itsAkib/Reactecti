@@ -1,0 +1,40 @@
+.home{
+    background-color: #035397;
+}
+.home1{
+    width:35%;
+}
+.home1 p{
+    font-size: 48px;
+    color: white;
+}
+.fullstack{
+    width:22%;
+}
+.full{
+    background-color: #F1F2F2;
+}
+.about{
+    padding:50px  150px;
+}
+.why img{
+    width:15%;
+    margin: 20px 0px;
+}
+.why{
+    background-color: #F1F2F2;
+}
+.why1{
+    width: 30%;
+    background-color: white;
+    padding:10px 30px
+}
+.why h3{
+    font-size: 23px;
+}
+.why img{
+    background-color: #035397;
+}
+body{
+    overflow-x: hideen;
+ }

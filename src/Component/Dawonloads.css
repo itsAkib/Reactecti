@@ -1,0 +1,14 @@
+.basic{
+    width: 90%;
+    background-color: #035192;
+    padding: 20px;
+    margin-top: 20px;
+    color: white;
+    border-radius: 15px;
+}
+.basic h4{
+    font-weight: 600;
+}
+body{
+    overflow-x: hideen;
+ }

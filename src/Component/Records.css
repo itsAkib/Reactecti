@@ -1,0 +1,19 @@
+.records{
+    background-color: #035397 ;
+    padding: 40px 0px;
+    margin-top: 100px;
+}
+.recordss{
+    background-color: #B5BDC4;
+    padding: 20px 0px ;
+    border-radius: 20px;
+    width: 16%;
+    color: white;
+    font-weight: 700;
+}
+.records h5{
+    font-weight: 800;
+}
+body{
+    overflow-x: hideen;
+ }

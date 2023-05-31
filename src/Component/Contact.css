@@ -1,0 +1,25 @@
+.join input{
+    width: 100%;
+    padding: 10px 0px;
+
+}
+.join button{
+    margin-top: 50px;
+    padding: 12px 60px;
+    border-radius: 10px;
+    background-color: #FDDA02;
+}
+.join h4{
+    margin-top: 60px;
+}
+.join p{
+    margin-bottom: 0px;
+    margin-top: 20px;
+}
+.opt{
+    width: 100%;
+height: 50px;
+}
+body{
+    overflow-x: hideen;
+ }

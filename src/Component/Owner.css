@@ -1,0 +1,33 @@
+.founder{
+    margin-top: 60px;
+    
+}
+.founder img{
+    width: 80%;
+}
+.mr{
+font-size: 1.5rem;
+font-weight: 600;
+
+}
+.founder p{
+    width: 80%;
+}
+.founder span{
+    color: gray;
+}
+.founder button{
+    width: 80%;
+background-color: #04589f;
+margin-top: 35px;
+color: white;
+padding: 10px;
+border-radius: 12px;
+}
+.cost{
+    margin-top: 50px;
+    margin-left: 10px;
+}
+body{
+    overflow-x: hideen;
+ }
